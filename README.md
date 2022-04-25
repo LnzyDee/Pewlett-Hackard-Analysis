@@ -2,7 +2,7 @@
 
 ## Overview of Pewlett Hackard Analysis
 
-Using the data provided to determine the number of retiring employees per title, and identifying employees who are eligible to participate in a mentorship program. 
+Using the data provided and determining the number of retiring employees per title as well as identifying employees who are eligible to participate in a mentorship program. 
 
 
 ## Pewlett Hackard Analysis Results
@@ -31,4 +31,4 @@ Using the data provided to determine the number of retiring employees per title,
 
 ## Resources
 - Data Source: [Pewlett Hackard Data](https://github.com/LnzyDee/Pewlett-Hackard-Analysis/tree/main/Data)
-- Software: [Python](https://www.python.org/), 3.7.6, [Visual Studio Code](https://code.visualstudio.com/), 1.65.2, [PostgresSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads), Anaconda, Jupyter Notebooks
+- Software: [Python](https://www.python.org/), 3.7.6, [Visual Studio Code](https://code.visualstudio.com/), 1.65.2, [PostgresSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
